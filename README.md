@@ -8,7 +8,7 @@
   conda activate
 
 ### Step 2: Get YOLOv8 Face Model
-- To clone the [YOLOv8 Face Repository](https://github.com/derronqi/yolov8-face.git) and install dependencies, run:
+- To clone the [YOLOv8 face repository](https://github.com/derronqi/yolov8-face.git) and install dependencies, run:
   ```bash
   git clone https://github.com/derronqi/yolov8-face.git
   cd yolov8-face
